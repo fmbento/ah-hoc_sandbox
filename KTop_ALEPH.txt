@@ -129,7 +129,7 @@ bibsysno	URL
 004788733	https://www.flickr.com/photos/britishlibrary/50263624842
 004788735	https://www.flickr.com/photos/britishlibrary/50263271543
 004788739	https://www.flickr.com/photos/britishlibrary/50264113267
-004788743	https://www.flickr.com/photos/britishlibrary/50263976692
+004788743	https://www.flickr.com/photos/britishlibrary/tags/sysnum004788743?sort=date-posted-desc
 004788747	https://www.flickr.com/photos/britishlibrary/50263134498
 004788749	https://www.flickr.com/photos/britishlibrary/50263272543
 004788751	https://www.flickr.com/photos/britishlibrary/50263927456
@@ -355,12 +355,10 @@ bibsysno	URL
 004793783	https://www.flickr.com/photos/britishlibrary/50266106882
 004793784	https://www.flickr.com/photos/britishlibrary/50266106842
 004793786	https://www.flickr.com/photos/britishlibrary/50265834517
-004793787	https://www.flickr.com/photos/britishlibrary/50265657536
 004793790	https://www.flickr.com/photos/britishlibrary/50265834242
 004793855	https://www.flickr.com/photos/britishlibrary/50265140453
 004793856	https://www.flickr.com/photos/britishlibrary/50265139943
 004793862	https://www.flickr.com/photos/britishlibrary/50265797456
-004793865	https://www.flickr.com/photos/britishlibrary/50265798566
 004793866	https://www.flickr.com/photos/britishlibrary/50265140578
 004793894	https://www.flickr.com/photos/britishlibrary/50263799047
 004793906	https://www.flickr.com/photos/britishlibrary/50263794776
@@ -416,8 +414,7 @@ bibsysno	URL
 004794451	https://www.flickr.com/photos/britishlibrary/50264999808
 004794462	https://www.flickr.com/photos/britishlibrary/50265842012
 004794464	https://www.flickr.com/photos/britishlibrary/50265657806
-004794467	https://www.flickr.com/photos/britishlibrary/50265839322
-004794479	https://www.flickr.com/photos/britishlibrary/50265839322
+004794479	https://www.flickr.com/photos/britishlibrary/50264999593
 004794836	https://www.flickr.com/photos/britishlibrary/50265276487
 004794838	https://www.flickr.com/photos/britishlibrary/50264436098
 004794966	https://www.flickr.com/photos/britishlibrary/50264436643
@@ -447,7 +444,6 @@ bibsysno	URL
 004795367	https://www.flickr.com/photos/britishlibrary/50265192298
 004795372	https://www.flickr.com/photos/britishlibrary/50266029957
 004795407	https://www.flickr.com/photos/britishlibrary/50265843212
-004795425	https://www.flickr.com/photos/britishlibrary/50264347227
 004795431	https://www.flickr.com/photos/britishlibrary/50263955011
 004795432	https://www.flickr.com/photos/britishlibrary/50263295928
 004795860	https://www.flickr.com/photos/britishlibrary/50265250781
@@ -461,7 +457,6 @@ bibsysno	URL
 004796045	https://www.flickr.com/photos/britishlibrary/50263349966
 004796097	https://www.flickr.com/photos/britishlibrary/50265110433
 004796103	https://www.flickr.com/photos/britishlibrary/50264112897
-004796105	https://www.flickr.com/photos/britishlibrary/50263105743
 004796110	https://www.flickr.com/photos/britishlibrary/50263267133
 004796132	https://www.flickr.com/photos/britishlibrary/50265609187
 004796373	https://www.flickr.com/photos/britishlibrary/50265800672
@@ -556,7 +551,6 @@ bibsysno	URL
 004799569	https://www.flickr.com/photos/britishlibrary/50265493927
 004799570	https://www.flickr.com/photos/britishlibrary/50265493757
 004799576	https://www.flickr.com/photos/britishlibrary/50263702362
-004799578	https://www.flickr.com/photos/britishlibrary/50263517341
 004799579	https://www.flickr.com/photos/britishlibrary/50263705852
 004799617	https://www.flickr.com/photos/britishlibrary/50263137283
 004799626	https://www.flickr.com/photos/britishlibrary/50264799043
@@ -584,7 +578,6 @@ bibsysno	URL
 004799967	https://www.flickr.com/photos/britishlibrary/50265470192
 004799968	https://www.flickr.com/photos/britishlibrary/50265288466
 004799969	https://www.flickr.com/photos/britishlibrary/50264635758
-004800019	https://www.flickr.com/photos/britishlibrary/50262858128
 004800023	https://www.flickr.com/photos/britishlibrary/50263517341
 004800025	https://www.flickr.com/photos/britishlibrary/50263517231
 004800037	https://www.flickr.com/photos/britishlibrary/50264764738
@@ -755,7 +748,6 @@ bibsysno	URL
 004801101	https://www.flickr.com/photos/britishlibrary/50264100881
 004801102	https://www.flickr.com/photos/britishlibrary/50264282807
 004801123	https://www.flickr.com/photos/britishlibrary/50264036442
-004801127	https://www.flickr.com/photos/britishlibrary/50263850946
 004801128	https://www.flickr.com/photos/britishlibrary/50263850801
 004801129	https://www.flickr.com/photos/britishlibrary/50263850696
 004801152	https://www.flickr.com/photos/britishlibrary/50264254871
@@ -810,7 +802,6 @@ bibsysno	URL
 004802271	https://www.flickr.com/photos/britishlibrary/50263790952
 004802276	https://www.flickr.com/photos/britishlibrary/50265511417
 004802281	https://www.flickr.com/photos/britishlibrary/50264799418
-004802288	https://www.flickr.com/photos/britishlibrary/50264443273
 004802289	https://www.flickr.com/photos/britishlibrary/50265031186
 004802379	https://www.flickr.com/photos/britishlibrary/50265280076
 004802380	https://www.flickr.com/photos/britishlibrary/50265280036
@@ -848,7 +839,6 @@ bibsysno	URL
 004802987	https://www.flickr.com/photos/britishlibrary/50262945863
 004802988	https://www.flickr.com/photos/britishlibrary/50262945448
 004802991	https://www.flickr.com/photos/britishlibrary/50263788802
-004803011	https://www.flickr.com/photos/britishlibrary/tags/sysnum004803011?sort=date-posted-desc
 004803049	https://www.flickr.com/photos/britishlibrary/50265967817
 004803056	https://www.flickr.com/photos/britishlibrary/50265788511
 004803059	https://www.flickr.com/photos/britishlibrary/50265967962
@@ -871,7 +861,6 @@ bibsysno	URL
 004803324	https://www.flickr.com/photos/britishlibrary/50263509152
 004803326	https://www.flickr.com/photos/britishlibrary/50262665813
 004803485	https://www.flickr.com/photos/britishlibrary/50262665743
-004803531	https://www.flickr.com/photos/britishlibrary/50263509702
 004803636	https://www.flickr.com/photos/britishlibrary/50264830183
 004803639	https://www.flickr.com/photos/britishlibrary/50264830108
 004803705	https://www.flickr.com/photos/britishlibrary/50263119873
@@ -1047,7 +1036,7 @@ bibsysno	URL
 004806223	https://www.flickr.com/photos/britishlibrary/50265763361
 004806224	https://www.flickr.com/photos/britishlibrary/50265105583
 004806228	https://www.flickr.com/photos/britishlibrary/50265788776
-004806246	https://www.flickr.com/photos/britishlibrary/tags/sysnum004806246?sort=date-posted-desc
+004806246	https://www.flickr.com/photos/britishlibrary/50264303032
 004806247	https://www.flickr.com/photos/britishlibrary/50264296762
 004806248	https://www.flickr.com/photos/britishlibrary/50264115451
 004806249	https://www.flickr.com/photos/britishlibrary/50263456908
@@ -1221,7 +1210,7 @@ bibsysno	URL
 004808813	https://www.flickr.com/photos/britishlibrary/50263294076
 004808814	https://www.flickr.com/photos/britishlibrary/50262635168
 004808817	https://www.flickr.com/photos/britishlibrary/50263292336
-004808819	https://www.flickr.com/photos/britishlibrary/50261988608
+004808819	https://www.flickr.com/photos/britishlibrary/50261988718
 004808910	https://www.flickr.com/photos/britishlibrary/50264443218
 004808922	https://www.flickr.com/photos/britishlibrary/50265454836
 004808926	https://www.flickr.com/photos/britishlibrary/tags/sysnum004808926?sort=date-posted-desc
@@ -1259,8 +1248,8 @@ bibsysno	URL
 004809224	https://www.flickr.com/photos/britishlibrary/50263523473
 004809260	https://www.flickr.com/photos/britishlibrary/50264181596
 004809261	https://www.flickr.com/photos/britishlibrary/50264361912
-004809262	https://www.flickr.com/photos/britishlibrary/tags/sysnum004809262?sort=date-posted-desc
-004809263	https://www.flickr.com/photos/britishlibrary/50264181236
+004809262	https://www.flickr.com/photos/britishlibrary/50264361817
+004809263	https://www.flickr.com/photos/britishlibrary/50264181121
 004809264	https://www.flickr.com/photos/britishlibrary/50264181021
 004809265	https://www.flickr.com/photos/britishlibrary/50264180896
 004809266	https://www.flickr.com/photos/britishlibrary/50264361247
@@ -1412,17 +1401,14 @@ bibsysno	URL
 004811936	https://www.flickr.com/photos/britishlibrary/50263596843
 004811937	https://www.flickr.com/photos/britishlibrary/50263595843
 004811938	https://www.flickr.com/photos/britishlibrary/50264434732
-004811939	https://www.flickr.com/photos/britishlibrary/50263595493
 004811940	https://www.flickr.com/photos/britishlibrary/50264435512
 004811941	https://www.flickr.com/photos/britishlibrary/50263595263
-004811942	https://www.flickr.com/photos/britishlibrary/50263595373
 004811943	https://www.flickr.com/photos/britishlibrary/50264252346
 004811944	https://www.flickr.com/photos/britishlibrary/50264435262
 004811945	https://www.flickr.com/photos/britishlibrary/50264435382
 004811947	https://www.flickr.com/photos/britishlibrary/50263596028
 004811948	https://www.flickr.com/photos/britishlibrary/50264435992
 004811949	https://www.flickr.com/photos/britishlibrary/50264435722
-004811950	https://www.flickr.com/photos/britishlibrary/50263595583
 004811951	https://www.flickr.com/photos/britishlibrary/50264252446
 004811994	https://www.flickr.com/photos/britishlibrary/50265560832
 004812061	https://www.flickr.com/photos/britishlibrary/50263587193
@@ -1707,8 +1693,8 @@ bibsysno	URL
 004815823	https://www.flickr.com/photos/britishlibrary/50266115402
 004815824	https://www.flickr.com/photos/britishlibrary/50265277263
 004815825	https://www.flickr.com/photos/britishlibrary/50266115277
-004815826	https://www.flickr.com/photos/britishlibrary/50265278183
-004815827	https://www.flickr.com/photos/britishlibrary/tags/sysnum004815827?sort=date-posted-desc
+004815826	https://www.flickr.com/photos/britishlibrary/50265937891
+004815827	https://www.flickr.com/photos/britishlibrary/50266116142
 004815953	https://www.flickr.com/photos/britishlibrary/50263428353
 004816007	https://www.flickr.com/photos/britishlibrary/50263440088
 004816008	https://www.flickr.com/photos/britishlibrary/50263440193
@@ -1746,8 +1732,7 @@ bibsysno	URL
 004816453	https://www.flickr.com/photos/britishlibrary/50265564622
 004816454	https://www.flickr.com/photos/britishlibrary/50264725928
 004816497	https://www.flickr.com/photos/britishlibrary/50264996953
-004816502	https://www.flickr.com/photos/britishlibrary/50264996488
-004816503	https://www.flickr.com/photos/britishlibrary/50264996128
+004816502	https://www.flickr.com/photos/britishlibrary/50265835817
 004816506	https://www.flickr.com/photos/britishlibrary/tags/sysnum004816506?sort=date-posted-desc
 004816508	https://www.flickr.com/photos/britishlibrary/tags/sysnum004816508?sort=date-posted-desc
 004816509	https://www.flickr.com/photos/britishlibrary/50265652781
@@ -2153,12 +2138,11 @@ bibsysno	URL
 004822851	https://www.flickr.com/photos/britishlibrary/50265944366
 004822852	https://www.flickr.com/photos/britishlibrary/tags/sysnum004822852?sort=date-posted-desc
 004822853	https://www.flickr.com/photos/britishlibrary/50265284638
-004822855	https://www.flickr.com/photos/britishlibrary/50266120667
+004822855	https://www.flickr.com/photos/britishlibrary/50266120582
 004822864	https://www.flickr.com/photos/britishlibrary/50263677987
 004822866	https://www.flickr.com/photos/britishlibrary/50263677072
 004822868	https://www.flickr.com/photos/britishlibrary/50262831908
 004822892	https://www.flickr.com/photos/britishlibrary/50263856046
-004822907	https://www.flickr.com/photos/britishlibrary/50262965308
 004822918	https://www.flickr.com/photos/britishlibrary/50263617716
 004822919	https://www.flickr.com/photos/britishlibrary/50263617301
 004822944	https://www.flickr.com/photos/britishlibrary/50263195608
@@ -2406,7 +2390,6 @@ bibsysno	URL
 004827765	https://www.flickr.com/photos/britishlibrary/50266003767
 004827772	https://www.flickr.com/photos/britishlibrary/50265995872
 004827773	https://www.flickr.com/photos/britishlibrary/50265995742
-004827778	https://www.flickr.com/photos/britishlibrary/tags/sysnum004827778?sort=date-posted-desc
 004827781	https://www.flickr.com/photos/britishlibrary/50265840621
 004827785	https://www.flickr.com/photos/britishlibrary/50264983283
 004827881	https://www.flickr.com/photos/britishlibrary/50265644142
@@ -2503,7 +2486,7 @@ bibsysno	URL
 004828565	https://www.flickr.com/photos/britishlibrary/50266109972
 004828583	https://www.flickr.com/photos/britishlibrary/50265455836
 004828614	https://www.flickr.com/photos/britishlibrary/50265315891
-004828653	https://www.flickr.com/photos/britishlibrary/50262710118
+004828653	https://www.flickr.com/photos/britishlibrary/50263553642
 004828656	https://www.flickr.com/photos/britishlibrary/50263548982
 004828668	https://www.flickr.com/photos/britishlibrary/50265793661
 004828678	https://www.flickr.com/photos/britishlibrary/50264269232
@@ -2539,7 +2522,6 @@ bibsysno	URL
 004829394	https://www.flickr.com/photos/britishlibrary/50264067796
 004829398	https://www.flickr.com/photos/britishlibrary/50264090372
 004829476	https://www.flickr.com/photos/britishlibrary/50263890661
-004829479	https://www.flickr.com/photos/britishlibrary/50264068507
 004829518	https://www.flickr.com/photos/britishlibrary/50263903827
 004829519	https://www.flickr.com/photos/britishlibrary/50263061588
 004829522	https://www.flickr.com/photos/britishlibrary/50265290101
@@ -2804,7 +2786,7 @@ bibsysno	URL
 004832424	https://www.flickr.com/photos/britishlibrary/50264026876
 004832455	https://www.flickr.com/photos/britishlibrary/50265295687
 004832456	https://www.flickr.com/photos/britishlibrary/50265295627
-004832492	https://www.flickr.com/photos/britishlibrary/tags/sysnum004832492?sort=date-posted-desc
+004832492	https://www.flickr.com/photos/britishlibrary/50263439018
 004832505	https://www.flickr.com/photos/britishlibrary/50265143518
 004832531	https://www.flickr.com/photos/britishlibrary/50262775588
 004832582	https://www.flickr.com/photos/britishlibrary/50264293962
@@ -2930,7 +2912,6 @@ bibsysno	URL
 004834778	https://www.flickr.com/photos/britishlibrary/50265447012
 004834817	https://www.flickr.com/photos/britishlibrary/50264083167
 004834818	https://www.flickr.com/photos/britishlibrary/50264085162
-004834890	https://www.flickr.com/photos/britishlibrary/50264013271
 004835257	https://www.flickr.com/photos/britishlibrary/tags/sysnum004835257?sort=date-posted-desc
 004835267	https://www.flickr.com/photos/britishlibrary/50264196687
 004835269	https://www.flickr.com/photos/britishlibrary/50263355163
@@ -2957,9 +2938,9 @@ bibsysno	URL
 004836757	https://www.flickr.com/photos/britishlibrary/50265808656
 004836761	https://www.flickr.com/photos/britishlibrary/50265805216
 004836763	https://www.flickr.com/photos/britishlibrary/50265831611
-004836767	https://www.flickr.com/photos/britishlibrary/tags/sysnum004836767?sort=date-posted-desc
-004836768	https://www.flickr.com/photos/britishlibrary/50265086642
-004836769	https://www.flickr.com/photos/britishlibrary/50265086572
+004836767	https://www.flickr.com/photos/britishlibrary/50264251048
+004836768	https://www.flickr.com/photos/britishlibrary/50264903466
+004836769	https://www.flickr.com/photos/britishlibrary/50265086382
 004836770	https://www.flickr.com/photos/britishlibrary/50265930066
 004836771	https://www.flickr.com/photos/britishlibrary/50265270323
 004836818	https://www.flickr.com/photos/britishlibrary/50264440117
@@ -3091,7 +3072,6 @@ bibsysno	URL
 004840236	https://www.flickr.com/photos/britishlibrary/50265134467
 004840243	https://www.flickr.com/photos/britishlibrary/50263594748
 004840278	https://www.flickr.com/photos/britishlibrary/50264324898
-004840303	https://www.flickr.com/photos/britishlibrary/50263353418
 004840391	https://www.flickr.com/photos/britishlibrary/50265433031
 004840409	https://www.flickr.com/photos/britishlibrary/50265444146
 004840636	https://www.flickr.com/photos/britishlibrary/50265829497
@@ -3100,7 +3080,6 @@ bibsysno	URL
 004840746	https://www.flickr.com/photos/britishlibrary/50264901366
 004840800	https://www.flickr.com/photos/britishlibrary/50263562468
 004840809	https://www.flickr.com/photos/britishlibrary/50265315486
-004840895	https://www.flickr.com/photos/britishlibrary/50264043117
 004840896	https://www.flickr.com/photos/britishlibrary/50264689418
 004840899	https://www.flickr.com/photos/britishlibrary/50265345966
 004840901	https://www.flickr.com/photos/britishlibrary/50264689193
@@ -3197,7 +3176,6 @@ bibsysno	URL
 004842725	https://www.flickr.com/photos/britishlibrary/50263996972
 004842727	https://www.flickr.com/photos/britishlibrary/50263812651
 004842729	https://www.flickr.com/photos/britishlibrary/50265186743
-004842733	https://www.flickr.com/photos/britishlibrary/50264033362
 004842737	https://www.flickr.com/photos/britishlibrary/50263020173
 004842750	https://www.flickr.com/photos/britishlibrary/50265507927
 004842778	https://www.flickr.com/photos/britishlibrary/50265749796
@@ -3280,7 +3258,7 @@ bibsysno	URL
 004844030	https://www.flickr.com/photos/britishlibrary/50264612508
 004844031	https://www.flickr.com/photos/britishlibrary/50265268381
 004844037	https://www.flickr.com/photos/britishlibrary/50265269897
-004844038	https://www.flickr.com/photos/britishlibrary/50264612283
+004844038	https://www.flickr.com/photos/britishlibrary/50563225196
 004844042	https://www.flickr.com/photos/britishlibrary/50265269712
 004844043	https://www.flickr.com/photos/britishlibrary/50265269637
 004844044	https://www.flickr.com/photos/britishlibrary/50265268286
@@ -3375,7 +3353,6 @@ bibsysno	URL
 004846087	https://www.flickr.com/photos/britishlibrary/50263566017
 004846137	https://www.flickr.com/photos/britishlibrary/50265956587
 004846141	https://www.flickr.com/photos/britishlibrary/50264243731
-004846156	https://www.flickr.com/photos/britishlibrary/50262965308
 004846163	https://www.flickr.com/photos/britishlibrary/50262928063
 004846177	https://www.flickr.com/photos/britishlibrary/50262755563
 004846181	https://www.flickr.com/photos/britishlibrary/50263916247
@@ -3419,14 +3396,11 @@ bibsysno	URL
 004847300	https://www.flickr.com/photos/britishlibrary/50265742216
 004847316	https://www.flickr.com/photos/britishlibrary/50265084108
 004847379	https://www.flickr.com/photos/britishlibrary/50264621998
-004847419	https://www.flickr.com/photos/britishlibrary/50265979202
 004847429	https://www.flickr.com/photos/britishlibrary/50265799271
 004847441	https://www.flickr.com/photos/britishlibrary/50265141053
 004847445	https://www.flickr.com/photos/britishlibrary/50265141693
-004847447	https://www.flickr.com/photos/britishlibrary/50265798566
 004847460	https://www.flickr.com/photos/britishlibrary/50265140928
 004847478	https://www.flickr.com/photos/britishlibrary/50266030582
-004847488	https://www.flickr.com/photos/britishlibrary/50263814997
 004847504	https://www.flickr.com/photos/britishlibrary/50185411852
 004847533	https://www.flickr.com/photos/britishlibrary/50262808073
 004847534	https://www.flickr.com/photos/britishlibrary/50262807983
@@ -3518,10 +3492,8 @@ bibsysno	URL
 004849158	https://www.flickr.com/photos/britishlibrary/50263638482
 004849165	https://www.flickr.com/photos/britishlibrary/50263453961
 004849175	https://www.flickr.com/photos/britishlibrary/tags/sysnum004849175?sort=date-posted-desc
-004849437	https://www.flickr.com/photos/britishlibrary/50266024027
 004849444	https://www.flickr.com/photos/britishlibrary/50266004172
 004849445	https://www.flickr.com/photos/britishlibrary/50265824451
-004849461	https://www.flickr.com/photos/britishlibrary/50265296763
 004849513	https://www.flickr.com/photos/britishlibrary/50265200483
 004849516	https://www.flickr.com/photos/britishlibrary/50266034987
 004849518	https://www.flickr.com/photos/britishlibrary/50265855546
@@ -3755,7 +3727,6 @@ bibsysno	URL
 004854338	https://www.flickr.com/photos/britishlibrary/50263948171
 004854340	https://www.flickr.com/photos/britishlibrary/50263779206
 004854344	https://www.flickr.com/photos/britishlibrary/50263947956
-004854419	https://www.flickr.com/photos/britishlibrary/50263291093
 004854447	https://www.flickr.com/photos/britishlibrary/50265645052
 004854453	https://www.flickr.com/photos/britishlibrary/50265461586
 004854462	https://www.flickr.com/photos/britishlibrary/50265461521
@@ -3964,7 +3935,7 @@ bibsysno	URL
 004856730	https://www.flickr.com/photos/britishlibrary/50264450308
 004856731	https://www.flickr.com/photos/britishlibrary/50265286872
 004856732	https://www.flickr.com/photos/britishlibrary/50264449818
-004856733	https://www.flickr.com/photos/britishlibrary/50264450308
+004856733	https://www.flickr.com/photos/britishlibrary/50563219681
 004856734	https://www.flickr.com/photos/britishlibrary/50265104136
 004856735	https://www.flickr.com/photos/britishlibrary/50265286957
 004856772	https://www.flickr.com/photos/britishlibrary/50264321037
@@ -4011,7 +3982,6 @@ bibsysno	URL
 004857294	https://www.flickr.com/photos/britishlibrary/50263116348
 004857357	https://www.flickr.com/photos/britishlibrary/50263422798
 004857358	https://www.flickr.com/photos/britishlibrary/50263422678
-004857366	https://www.flickr.com/photos/britishlibrary/50263501788
 004857408	https://www.flickr.com/photos/britishlibrary/50264024836
 004857413	https://www.flickr.com/photos/britishlibrary/50264099271
 004857426	https://www.flickr.com/photos/britishlibrary/50265312786
@@ -4022,7 +3992,7 @@ bibsysno	URL
 004857617	https://www.flickr.com/photos/britishlibrary/50265448246
 004857618	https://www.flickr.com/photos/britishlibrary/50265630737
 004857620	https://www.flickr.com/photos/britishlibrary/50264327992
-004857631	https://www.flickr.com/photos/britishlibrary/tags/sysnum004857631?sort=date-posted-desc
+004857631	https://www.flickr.com/photos/britishlibrary/50263476443
 004857659	https://www.flickr.com/photos/britishlibrary/50263366721
 004857660	https://www.flickr.com/photos/britishlibrary/50263551922
 004857661	https://www.flickr.com/photos/britishlibrary/50263551187
@@ -4120,7 +4090,7 @@ bibsysno	URL
 004858732	https://www.flickr.com/photos/britishlibrary/50264429988
 004858733	https://www.flickr.com/photos/britishlibrary/50265084256
 004858734	https://www.flickr.com/photos/britishlibrary/50264430158
-004858735	https://www.flickr.com/photos/britishlibrary/tags/sysnum004858735?sort=date-posted-desc
+004858735	https://www.flickr.com/photos/britishlibrary/50264431028
 004858736	https://www.flickr.com/photos/britishlibrary/50264429828
 004858737	https://www.flickr.com/photos/britishlibrary/50265266892
 004858738	https://www.flickr.com/photos/britishlibrary/50265265572
@@ -4162,7 +4132,7 @@ bibsysno	URL
 004859417	https://www.flickr.com/photos/britishlibrary/50265183023
 004859420	https://www.flickr.com/photos/britishlibrary/50266020587
 004859439	https://www.flickr.com/photos/britishlibrary/50265840681
-004859441	https://www.flickr.com/photos/britishlibrary/tags/sysnum004859441?sort=date-posted-desc
+004859441	https://www.flickr.com/photos/britishlibrary/50265840411
 004859447	https://www.flickr.com/photos/britishlibrary/50265843141
 004859451	https://www.flickr.com/photos/britishlibrary/50266022142
 004859471	https://www.flickr.com/photos/britishlibrary/50265840891
@@ -4191,7 +4161,6 @@ bibsysno	URL
 004859784	https://www.flickr.com/photos/britishlibrary/50264383772
 004859790	https://www.flickr.com/photos/britishlibrary/50265114531
 004859791	https://www.flickr.com/photos/britishlibrary/50265297962
-004859972	https://www.flickr.com/photos/britishlibrary/50263503938
 004859974	https://www.flickr.com/photos/britishlibrary/50265100343
 004860054	https://www.flickr.com/photos/britishlibrary/50265994622
 004860081	https://www.flickr.com/photos/britishlibrary/50266009382
@@ -4206,7 +4175,7 @@ bibsysno	URL
 004860191	https://www.flickr.com/photos/britishlibrary/50264629123
 004860196	https://www.flickr.com/photos/britishlibrary/50265442876
 004860197	https://www.flickr.com/photos/britishlibrary/50264786728
-004860222	https://www.flickr.com/photos/britishlibrary/50264135191
+004860222	https://www.flickr.com/photos/britishlibrary/50263476308
 004860229	https://www.flickr.com/photos/britishlibrary/50265258947
 004860230	https://www.flickr.com/photos/britishlibrary/50264421543
 004860231	https://www.flickr.com/photos/britishlibrary/50264421498
@@ -4363,7 +4332,6 @@ bibsysno	URL
 004865388	https://www.flickr.com/photos/britishlibrary/50265112631
 004865389	https://www.flickr.com/photos/britishlibrary/50265112541
 004865390	https://www.flickr.com/photos/britishlibrary/50265295827
-004865391	https://www.flickr.com/photos/britishlibrary/50265113811
 004865395	https://www.flickr.com/photos/britishlibrary/50264323983
 004865413	https://www.flickr.com/photos/britishlibrary/50263615386
 004865414	https://www.flickr.com/photos/britishlibrary/50262956733
@@ -4480,7 +4448,6 @@ bibsysno	URL
 004867666	https://www.flickr.com/photos/britishlibrary/50264844833
 004867814	https://www.flickr.com/photos/britishlibrary/50263289793
 004867833	https://www.flickr.com/photos/britishlibrary/50264434448
-004867856	https://www.flickr.com/photos/britishlibrary/50265089426
 004867922	https://www.flickr.com/photos/britishlibrary/50265270932
 004867986	https://www.flickr.com/photos/britishlibrary/50263291598
 004868354	https://www.flickr.com/photos/britishlibrary/50262724058
@@ -4538,7 +4505,6 @@ bibsysno	URL
 004869911	https://www.flickr.com/photos/britishlibrary/50265129961
 004869912	https://www.flickr.com/photos/britishlibrary/50264475533
 004869940	https://www.flickr.com/photos/britishlibrary/50265548842
-004869943	https://www.flickr.com/photos/britishlibrary/50264710658
 004869946	https://www.flickr.com/photos/britishlibrary/50264710528
 004869949	https://www.flickr.com/photos/britishlibrary/50265548452
 004869971	https://www.flickr.com/photos/britishlibrary/50264710238
@@ -4564,7 +4530,6 @@ bibsysno	URL
 004870430	https://www.flickr.com/photos/britishlibrary/50264382902
 004870431	https://www.flickr.com/photos/britishlibrary/50264382747
 004870432	https://www.flickr.com/photos/britishlibrary/50263544058
-004870433	https://www.flickr.com/photos/britishlibrary/50263435208
 004870434	https://www.flickr.com/photos/britishlibrary/50264201136
 004870435	https://www.flickr.com/photos/britishlibrary/50264200781
 004870436	https://www.flickr.com/photos/britishlibrary/50264381312
@@ -4756,7 +4721,6 @@ bibsysno	URL
 004875136	https://www.flickr.com/photos/britishlibrary/50263509977
 004875170	https://www.flickr.com/photos/britishlibrary/50265507072
 004875171	https://www.flickr.com/photos/britishlibrary/50264653458
-004875185	https://www.flickr.com/photos/britishlibrary/50263465793
 004875213	https://www.flickr.com/photos/britishlibrary/50264133026
 004875214	https://www.flickr.com/photos/britishlibrary/50264132826
 004875215	https://www.flickr.com/photos/britishlibrary/50264132711
@@ -4818,7 +4782,6 @@ bibsysno	URL
 004875904	https://www.flickr.com/photos/britishlibrary/50265874932
 004875907	https://www.flickr.com/photos/britishlibrary/50265874452
 004875909	https://www.flickr.com/photos/britishlibrary/50265692586
-004875910	https://www.flickr.com/photos/britishlibrary/50265696026
 004875911	https://www.flickr.com/photos/britishlibrary/50265033838
 004875912	https://www.flickr.com/photos/britishlibrary/50265692456
 004875913	https://www.flickr.com/photos/britishlibrary/50265033693
@@ -5274,7 +5237,7 @@ bibsysno	URL
 004880522	https://www.flickr.com/photos/britishlibrary/50264496968
 004880523	https://www.flickr.com/photos/britishlibrary/50265153081
 004880524	https://www.flickr.com/photos/britishlibrary/50265335597
-004880525	https://www.flickr.com/photos/britishlibrary/50265151646
+004880525	https://www.flickr.com/photos/britishlibrary/50265335237
 004880526	https://www.flickr.com/photos/britishlibrary/50264499388
 004880527	https://www.flickr.com/photos/britishlibrary/50265336832
 004880528	https://www.flickr.com/photos/britishlibrary/50264499688
@@ -5662,7 +5625,6 @@ bibsysno	URL
 004881197	https://www.flickr.com/photos/britishlibrary/50265183156
 004881198	https://www.flickr.com/photos/britishlibrary/50265182756
 004881210	https://www.flickr.com/photos/britishlibrary/50264582373
-004881217	https://www.flickr.com/photos/britishlibrary/50264566838
 004881268	https://www.flickr.com/photos/britishlibrary/50265245851
 004881271	https://www.flickr.com/photos/britishlibrary/50265246446
 004881274	https://www.flickr.com/photos/britishlibrary/50265246166
@@ -5678,7 +5640,7 @@ bibsysno	URL
 004881309	https://www.flickr.com/photos/britishlibrary/50265376132
 004881310	https://www.flickr.com/photos/britishlibrary/50265193356
 004881311	https://www.flickr.com/photos/britishlibrary/50265192451
-004881312	https://www.flickr.com/photos/britishlibrary/50264538878
+004881312	https://www.flickr.com/photos/britishlibrary/50562477853
 004881313	https://www.flickr.com/photos/britishlibrary/50265193036
 004881314	https://www.flickr.com/photos/britishlibrary/50265375257
 004881320	https://www.flickr.com/photos/britishlibrary/50264519393
@@ -5725,7 +5687,6 @@ bibsysno	URL
 004882041	https://www.flickr.com/photos/britishlibrary/50266105217
 004882134	https://www.flickr.com/photos/britishlibrary/50263548306
 004882186	https://www.flickr.com/photos/britishlibrary/50263976217
-004882193	https://www.flickr.com/photos/britishlibrary/50263792516
 004882204	https://www.flickr.com/photos/britishlibrary/50263975432
 004882205	https://www.flickr.com/photos/britishlibrary/tags/sysnum004882205?sort=date-posted-desc
 004882208	https://www.flickr.com/photos/britishlibrary/50263134013
@@ -5957,7 +5918,6 @@ bibsysno	URL
 004886856	https://www.flickr.com/photos/britishlibrary/50263593376
 004886875	https://www.flickr.com/photos/britishlibrary/50263794072
 004886879	https://www.flickr.com/photos/britishlibrary/50263794862
-004886880	https://www.flickr.com/photos/britishlibrary/50263794752
 004886881	https://www.flickr.com/photos/britishlibrary/50262951318
 004886995	https://www.flickr.com/photos/britishlibrary/50265186803
 004887047	https://www.flickr.com/photos/britishlibrary/50265562842
@@ -6192,8 +6152,8 @@ bibsysno	URL
 004893000	https://www.flickr.com/photos/britishlibrary/50262969433
 004893006	https://www.flickr.com/photos/britishlibrary/50263153578
 004893007	https://www.flickr.com/photos/britishlibrary/50263153468
-004893011	https://www.flickr.com/photos/britishlibrary/50264905498
-004893012	https://www.flickr.com/photos/britishlibrary/50264905408
+004893011	https://www.flickr.com/photos/britishlibrary/50265562671
+004893012	https://www.flickr.com/photos/britishlibrary/50264905228
 004893013	https://www.flickr.com/photos/britishlibrary/50264904773
 004893025	https://www.flickr.com/photos/britishlibrary/50263135868
 004893050	https://www.flickr.com/photos/britishlibrary/50265752332
@@ -6233,7 +6193,6 @@ bibsysno	URL
 004893569	https://www.flickr.com/photos/britishlibrary/50264594613
 004893572	https://www.flickr.com/photos/britishlibrary/50265864557
 004893575	https://www.flickr.com/photos/britishlibrary/50265660466
-004893597	https://www.flickr.com/photos/britishlibrary/tags/sysnum004893597?sort=date-posted-desc
 004893599	https://www.flickr.com/photos/britishlibrary/50265800427
 004893685	https://www.flickr.com/photos/britishlibrary/50263413913
 004893692	https://www.flickr.com/photos/britishlibrary/50264835318
@@ -6451,7 +6410,7 @@ bibsysno	URL
 004898017	https://www.flickr.com/photos/britishlibrary/50264380413
 004898018	https://www.flickr.com/photos/britishlibrary/50265032831
 004898019	https://www.flickr.com/photos/britishlibrary/50264379323
-004898020	https://www.flickr.com/photos/britishlibrary/tags/sysnum004898020?sort=date-posted-desc
+004898020	https://www.flickr.com/photos/britishlibrary/50264379233
 004898021	https://www.flickr.com/photos/britishlibrary/50264379508
 004898022	https://www.flickr.com/photos/britishlibrary/50264380028
 004898023	https://www.flickr.com/photos/britishlibrary/50265033651
@@ -6487,8 +6446,8 @@ bibsysno	URL
 004898894	https://www.flickr.com/photos/britishlibrary/50262902983
 004898980	https://www.flickr.com/photos/britishlibrary/50265565067
 004898981	https://www.flickr.com/photos/britishlibrary/50265383106
-004899002	https://www.flickr.com/photos/britishlibrary/50265231842
-004899003	https://www.flickr.com/photos/britishlibrary/tags/sysnum004899003?sort=date-posted-desc
+004899002	https://www.flickr.com/photos/britishlibrary/50265231787
+004899003	https://www.flickr.com/photos/britishlibrary/50264395773
 004899007	https://www.flickr.com/photos/britishlibrary/50264247432
 004899014	https://www.flickr.com/photos/britishlibrary/50265708852
 004899179	https://www.flickr.com/photos/britishlibrary/50264368648
@@ -6516,8 +6475,8 @@ bibsysno	URL
 004900345	https://www.flickr.com/photos/britishlibrary/50265978032
 004900346	https://www.flickr.com/photos/britishlibrary/50265976557
 004900354	https://www.flickr.com/photos/britishlibrary/50265976487
-004900364	https://www.flickr.com/photos/britishlibrary/tags/sysnum004900364?sort=date-posted-desc
-004900365	https://www.flickr.com/photos/britishlibrary/50265796016
+004900364	https://www.flickr.com/photos/britishlibrary/50265796121
+004900365	https://www.flickr.com/photos/britishlibrary/50265795866
 004900370	https://www.flickr.com/photos/britishlibrary/50265865947
 004900516	https://www.flickr.com/photos/britishlibrary/50263979357
 004900520	https://www.flickr.com/photos/britishlibrary/50263977337
@@ -6557,11 +6516,11 @@ bibsysno	URL
 004901192	https://www.flickr.com/photos/britishlibrary/50265530821
 004901244	https://www.flickr.com/photos/britishlibrary/50265082636
 004901310	https://www.flickr.com/photos/britishlibrary/50264651298
-004901311	https://www.flickr.com/photos/britishlibrary/50265488772
+004901311	https://www.flickr.com/photos/britishlibrary/50563357542
 004901684	https://www.flickr.com/photos/britishlibrary/50264388403
 004901688	https://www.flickr.com/photos/britishlibrary/50264388233
 004901689	https://www.flickr.com/photos/britishlibrary/50265041591
-004901691	https://www.flickr.com/photos/britishlibrary/50265041516
+004901691	https://www.flickr.com/photos/britishlibrary/50265041396
 004901693	https://www.flickr.com/photos/britishlibrary/50264387843
 004901888	https://www.flickr.com/photos/britishlibrary/50262764028
 004901891	https://www.flickr.com/photos/britishlibrary/50263449683
@@ -6579,7 +6538,6 @@ bibsysno	URL
 004902675	https://www.flickr.com/photos/britishlibrary/50265243122
 004902676	https://www.flickr.com/photos/britishlibrary/50265243052
 004902678	https://www.flickr.com/photos/britishlibrary/50265242402
-004902679	https://www.flickr.com/photos/britishlibrary/tags/sysnum004902679?sort=date-posted-desc
 004902680	https://www.flickr.com/photos/britishlibrary/50265242037
 004902681	https://www.flickr.com/photos/britishlibrary/50265240272
 004902682	https://www.flickr.com/photos/britishlibrary/50265057811
@@ -6718,7 +6676,6 @@ bibsysno	URL
 004905763	https://www.flickr.com/photos/britishlibrary/50265794146
 004905770	https://www.flickr.com/photos/britishlibrary/50265794056
 004905826	https://www.flickr.com/photos/britishlibrary/50265504387
-004905845	https://www.flickr.com/photos/britishlibrary/50265199852
 004905847	https://www.flickr.com/photos/britishlibrary/50264359453
 004905848	https://www.flickr.com/photos/britishlibrary/50264354533
 004905849	https://www.flickr.com/photos/britishlibrary/50265199852
@@ -6965,7 +6922,6 @@ bibsysno	URL
 004907048	https://www.flickr.com/photos/britishlibrary/50262710483
 004907049	https://www.flickr.com/photos/britishlibrary/50263369056
 004907050	https://www.flickr.com/photos/britishlibrary/50262710248
-004907059	https://www.flickr.com/photos/britishlibrary/50262710118
 004907061	https://www.flickr.com/photos/britishlibrary/tags/sysnum004907061?sort=date-posted-desc
 004907183	https://www.flickr.com/photos/britishlibrary/50263683912
 004907185	https://www.flickr.com/photos/britishlibrary/50263683807
@@ -6973,6 +6929,7 @@ bibsysno	URL
 004907243	https://www.flickr.com/photos/britishlibrary/50264435118
 004907251	https://www.flickr.com/photos/britishlibrary/50265089876
 004907278	https://www.flickr.com/photos/britishlibrary/50265271927
+004907292	https://www.flickr.com/photos/britishlibrary/50563225011
 004907301	https://www.flickr.com/photos/britishlibrary/50265271842
 004907315	https://www.flickr.com/photos/britishlibrary/50265089036
 004907319	https://www.flickr.com/photos/britishlibrary/50264434703
@@ -7563,8 +7520,7 @@ bibsysno	URL
 004919136	https://www.flickr.com/photos/britishlibrary/50264189391
 004919137	https://www.flickr.com/photos/britishlibrary/50264370227
 004919138	https://www.flickr.com/photos/britishlibrary/50264375752
-004919139	https://www.flickr.com/photos/britishlibrary/50263537088
-004919140	https://www.flickr.com/photos/britishlibrary/50263537088
+004919139	https://www.flickr.com/photos/britishlibrary/50264375972
 004919141	https://www.flickr.com/photos/britishlibrary/50264194386
 004919142	https://www.flickr.com/photos/britishlibrary/50263536253
 004919143	https://www.flickr.com/photos/britishlibrary/50264194621
@@ -7732,7 +7688,7 @@ bibsysno	URL
 004920657	https://www.flickr.com/photos/britishlibrary/50265415756
 004920658	https://www.flickr.com/photos/britishlibrary/50264759623
 004920727	https://www.flickr.com/photos/britishlibrary/50265276331
-004920775	https://www.flickr.com/photos/britishlibrary/50265472811
+004920775	https://www.flickr.com/photos/britishlibrary/50265655642
 004920781	https://www.flickr.com/photos/britishlibrary/50265275378
 004920825	https://www.flickr.com/photos/britishlibrary/50264207307
 004920826	https://www.flickr.com/photos/britishlibrary/50263365858
@@ -7794,7 +7750,6 @@ bibsysno	URL
 004922039	https://www.flickr.com/photos/britishlibrary/50264420497
 004922043	https://www.flickr.com/photos/britishlibrary/50265044993
 004922053	https://www.flickr.com/photos/britishlibrary/50265044103
-004922074	https://www.flickr.com/photos/britishlibrary/50265881182
 004922077	https://www.flickr.com/photos/britishlibrary/50265881037
 004922083	https://www.flickr.com/photos/britishlibrary/50265040143
 004922084	https://www.flickr.com/photos/britishlibrary/tags/sysnum004922084?sort=date-posted-desc
@@ -7809,7 +7764,6 @@ bibsysno	URL
 004922686	https://www.flickr.com/photos/britishlibrary/50263501468
 004922687	https://www.flickr.com/photos/britishlibrary/50263501388
 004922688	https://www.flickr.com/photos/britishlibrary/50264339977
-004922695	https://www.flickr.com/photos/britishlibrary/50265376176
 004922696	https://www.flickr.com/photos/britishlibrary/50264733833
 004922725	https://www.flickr.com/photos/britishlibrary/50264720083
 004922730	https://www.flickr.com/photos/britishlibrary/50265993142
@@ -7891,7 +7845,6 @@ bibsysno	URL
 004923883	https://www.flickr.com/photos/britishlibrary/50264129992
 004923897	https://www.flickr.com/photos/britishlibrary/50263893772
 004923909	https://www.flickr.com/photos/britishlibrary/50263485321
-004923950	https://www.flickr.com/photos/britishlibrary/50264033362
 004924018	https://www.flickr.com/photos/britishlibrary/50263474846
 004924028	https://www.flickr.com/photos/britishlibrary/50264818448
 004924113	https://www.flickr.com/photos/britishlibrary/50263603982
@@ -8011,7 +7964,6 @@ bibsysno	URL
 004927846	https://www.flickr.com/photos/britishlibrary/50263494003
 004927847	https://www.flickr.com/photos/britishlibrary/50263493863
 004927932	https://www.flickr.com/photos/britishlibrary/50265962407
-004928051	https://www.flickr.com/photos/britishlibrary/50262977378
 004928053	https://www.flickr.com/photos/britishlibrary/tags/sysnum004928053?sort=date-posted-desc
 004928065	https://www.flickr.com/photos/britishlibrary/50263812957
 004928069	https://www.flickr.com/photos/britishlibrary/50262978228
@@ -8119,7 +8071,6 @@ bibsysno	URL
 004930417	https://www.flickr.com/photos/britishlibrary/50263468228
 004930418	https://www.flickr.com/photos/britishlibrary/50263468163
 004930419	https://www.flickr.com/photos/britishlibrary/50264126501
-004930547	https://www.flickr.com/photos/britishlibrary/50265186923
 004930608	https://www.flickr.com/photos/britishlibrary/50263850946
 004930609	https://www.flickr.com/photos/britishlibrary/50263850051
 004930620	https://www.flickr.com/photos/britishlibrary/50264064882
@@ -8147,7 +8098,6 @@ bibsysno	URL
 004931382	https://www.flickr.com/photos/britishlibrary/50265515717
 004931404	https://www.flickr.com/photos/britishlibrary/50265334026
 004931405	https://www.flickr.com/photos/britishlibrary/50265333941
-004931415	https://www.flickr.com/photos/britishlibrary/50263465593
 004931432	https://www.flickr.com/photos/britishlibrary/50264126421
 004931433	https://www.flickr.com/photos/britishlibrary/50264126326
 004931434	https://www.flickr.com/photos/britishlibrary/50264126236
@@ -8283,7 +8233,6 @@ bibsysno	URL
 004934276	https://www.flickr.com/photos/britishlibrary/50263653817
 004934277	https://www.flickr.com/photos/britishlibrary/50263653747
 004934278	https://www.flickr.com/photos/britishlibrary/50262809618
-004934371	https://www.flickr.com/photos/britishlibrary/50265186803
 004934381	https://www.flickr.com/photos/britishlibrary/50265504272
 004934394	https://www.flickr.com/photos/britishlibrary/50264298273
 004934397	https://www.flickr.com/photos/britishlibrary/50265120567
@@ -8383,7 +8332,7 @@ bibsysno	URL
 004936488	https://www.flickr.com/photos/britishlibrary/50265021416
 004936547	https://www.flickr.com/photos/britishlibrary/50264354257
 004936562	https://www.flickr.com/photos/britishlibrary/50264900821
-004936564	https://www.flickr.com/photos/britishlibrary/50264972541
+004936564	https://www.flickr.com/photos/britishlibrary/50563224751
 004936565	https://www.flickr.com/photos/britishlibrary/50264972271
 004936615	https://www.flickr.com/photos/britishlibrary/50263552328
 004936647	https://www.flickr.com/photos/britishlibrary/50263736002
@@ -8484,7 +8433,7 @@ bibsysno	URL
 004937709	https://www.flickr.com/photos/britishlibrary/50265071081
 004937724	https://www.flickr.com/photos/britishlibrary/50265692046
 004937731	https://www.flickr.com/photos/britishlibrary/50264139396
-004937757	https://www.flickr.com/photos/britishlibrary/50265303746
+004937757	https://www.flickr.com/photos/britishlibrary/50264647283
 004937778	https://www.flickr.com/photos/britishlibrary/50265629172
 004937809	https://www.flickr.com/photos/britishlibrary/50264647163
 004937845	https://www.flickr.com/photos/britishlibrary/50263536702
@@ -8681,7 +8630,6 @@ bibsysno	URL
 004943837	https://www.flickr.com/photos/britishlibrary/50264619638
 004943854	https://www.flickr.com/photos/britishlibrary/50265943757
 004943865	https://www.flickr.com/photos/britishlibrary/50264780408
-004943948	https://www.flickr.com/photos/britishlibrary/50265186743
 004943962	https://www.flickr.com/photos/britishlibrary/50265375331
 004943966	https://www.flickr.com/photos/britishlibrary/50265019091
 004943968	https://www.flickr.com/photos/britishlibrary/50263648487
@@ -8855,7 +8803,6 @@ bibsysno	URL
 004947619	https://www.flickr.com/photos/britishlibrary/50265651446
 004947620	https://www.flickr.com/photos/britishlibrary/50264993603
 004947622	https://www.flickr.com/photos/britishlibrary/50265839057
-004947680	https://www.flickr.com/photos/britishlibrary/50265839057
 004947708	https://www.flickr.com/photos/britishlibrary/50265857212
 004947711	https://www.flickr.com/photos/britishlibrary/50265860417
 004947713	https://www.flickr.com/photos/britishlibrary/50265662871
@@ -8864,12 +8811,10 @@ bibsysno	URL
 004947732	https://www.flickr.com/photos/britishlibrary/50265678156
 004947734	https://www.flickr.com/photos/britishlibrary/50265019473
 004947751	https://www.flickr.com/photos/britishlibrary/tags/sysnum004947751?sort=date-posted-desc
-004947752	https://www.flickr.com/photos/britishlibrary/50265857367
 004947854	https://www.flickr.com/photos/britishlibrary/50265674421
 004947855	https://www.flickr.com/photos/britishlibrary/50265016273
 004947857	https://www.flickr.com/photos/britishlibrary/50265019528
 004947974	https://www.flickr.com/photos/britishlibrary/50264426063
-004947975	https://www.flickr.com/photos/britishlibrary/50265261972
 004947978	https://www.flickr.com/photos/britishlibrary/50264088672
 004948012	https://www.flickr.com/photos/britishlibrary/50263742912
 004948021	https://www.flickr.com/photos/britishlibrary/50262891818
@@ -8882,7 +8827,7 @@ bibsysno	URL
 004948141	https://www.flickr.com/photos/britishlibrary/50264425363
 004948142	https://www.flickr.com/photos/britishlibrary/50265262242
 004948143	https://www.flickr.com/photos/britishlibrary/50265262112
-004948144	https://www.flickr.com/photos/britishlibrary/50265261972
+004948144	https://www.flickr.com/photos/britishlibrary/50264424828
 004948145	https://www.flickr.com/photos/britishlibrary/50265078951
 004948146	https://www.flickr.com/photos/britishlibrary/50264424973
 004948147	https://www.flickr.com/photos/britishlibrary/50265262197
@@ -9127,16 +9072,14 @@ bibsysno	URL
 004952904	https://www.flickr.com/photos/britishlibrary/50265992507
 004953017	https://www.flickr.com/photos/britishlibrary/50265794776
 004953100	https://www.flickr.com/photos/britishlibrary/50265375256
-004953117	https://www.flickr.com/photos/britishlibrary/50265857501
 004953258	https://www.flickr.com/photos/britishlibrary/50264306602
 004953259	https://www.flickr.com/photos/britishlibrary/50263467048
 004953260	https://www.flickr.com/photos/britishlibrary/50263467163
 004953261	https://www.flickr.com/photos/britishlibrary/50264125671
 004953268	https://www.flickr.com/photos/britishlibrary/50264391428
-004953269	https://www.flickr.com/photos/britishlibrary/tags/sysnum004953269?sort=date-posted-desc
+004953269	https://www.flickr.com/photos/britishlibrary/50264391278
 004953271	https://www.flickr.com/photos/britishlibrary/50264172896
 004953304	https://www.flickr.com/photos/britishlibrary/tags/sysnum004953304?sort=date-posted-desc
-004953356	https://www.flickr.com/photos/britishlibrary/50266024162
 004953360	https://www.flickr.com/photos/britishlibrary/50263543037
 004953366	https://www.flickr.com/photos/britishlibrary/50263362256
 004953414	https://www.flickr.com/photos/britishlibrary/50264100216
@@ -9258,7 +9201,7 @@ bibsysno	URL
 004955379	https://www.flickr.com/photos/britishlibrary/50265233797
 004955395	https://www.flickr.com/photos/britishlibrary/50265301256
 004955416	https://www.flickr.com/photos/britishlibrary/50264645088
-004955419	https://www.flickr.com/photos/britishlibrary/tags/sysnum004955419?sort=date-posted-desc
+004955419	https://www.flickr.com/photos/britishlibrary/50264666113
 004955553	https://www.flickr.com/photos/britishlibrary/50264826138
 004955567	https://www.flickr.com/photos/britishlibrary/50264821008
 004955569	https://www.flickr.com/photos/britishlibrary/50265480996
@@ -9498,7 +9441,6 @@ bibsysno	URL
 004958434	https://www.flickr.com/photos/britishlibrary/50265166887
 004958435	https://www.flickr.com/photos/britishlibrary/50264330523
 004958479	https://www.flickr.com/photos/britishlibrary/50264746668
-004958487	https://www.flickr.com/photos/britishlibrary/50264746668
 004958498	https://www.flickr.com/photos/britishlibrary/50265512747
 004958506	https://www.flickr.com/photos/britishlibrary/50265512527
 004958507	https://www.flickr.com/photos/britishlibrary/50264674243
@@ -9518,7 +9460,6 @@ bibsysno	URL
 004958691	https://www.flickr.com/photos/britishlibrary/50263484173
 004958692	https://www.flickr.com/photos/britishlibrary/50264322562
 004958693	https://www.flickr.com/photos/britishlibrary/50263485508
-004958694	https://www.flickr.com/photos/britishlibrary/50263485798
 004958695	https://www.flickr.com/photos/britishlibrary/50264142491
 004958696	https://www.flickr.com/photos/britishlibrary/50263483903
 004958697	https://www.flickr.com/photos/britishlibrary/50264323027
@@ -9654,7 +9595,7 @@ bibsysno	URL
 004966540	https://www.flickr.com/photos/britishlibrary/50263473798
 004966542	https://www.flickr.com/photos/britishlibrary/50264307077
 004966544	https://www.flickr.com/photos/britishlibrary/50263465903
-004966550	https://www.flickr.com/photos/britishlibrary/50263465793
+004966550	https://www.flickr.com/photos/britishlibrary/tags/sysnum004966550?sort=date-posted-desc
 004966551	https://www.flickr.com/photos/britishlibrary/tags/sysnum004966551?sort=date-posted-desc
 004966604	https://www.flickr.com/photos/britishlibrary/50264318052
 004966669	https://www.flickr.com/photos/britishlibrary/50264138161
@@ -9663,7 +9604,6 @@ bibsysno	URL
 004966733	https://www.flickr.com/photos/britishlibrary/50264318507
 004966784	https://www.flickr.com/photos/britishlibrary/50264304727
 004966786	https://www.flickr.com/photos/britishlibrary/50264116596
-004966791	https://www.flickr.com/photos/britishlibrary/50263465468
 004966813	https://www.flickr.com/photos/britishlibrary/50263452393
 004966814	https://www.flickr.com/photos/britishlibrary/50263452308
 004966816	https://www.flickr.com/photos/britishlibrary/50264110701
@@ -9785,6 +9725,10 @@ bibsysno	URL
 004977019	https://www.flickr.com/photos/britishlibrary/50265755456
 004977021	https://www.flickr.com/photos/britishlibrary/50265097558
 004977024	https://www.flickr.com/photos/britishlibrary/50265096658
+004977027	https://www.flickr.com/photos/britishlibrary/tags/sysnum004977027?sort=date-posted-desc
+004977028	https://www.flickr.com/photos/britishlibrary/50563361787
+004977029	https://www.flickr.com/photos/britishlibrary/50562484948
+004977030	https://www.flickr.com/photos/britishlibrary/50562484888
 004977038	https://www.flickr.com/photos/britishlibrary/50265940402
 004977059	https://www.flickr.com/photos/britishlibrary/50265543211
 004977137	https://www.flickr.com/photos/britishlibrary/50264733413
@@ -10079,7 +10023,8 @@ bibsysno	URL
 004978289	https://www.flickr.com/photos/britishlibrary/50265278308
 004978290	https://www.flickr.com/photos/britishlibrary/50265278263
 004978291	https://www.flickr.com/photos/britishlibrary/50266116377
-004978292	https://www.flickr.com/photos/britishlibrary/50266116232
+004978292	https://www.flickr.com/photos/britishlibrary/50265277928
+004978293	https://www.flickr.com/photos/britishlibrary/50562484523
 004978322	https://www.flickr.com/photos/britishlibrary/50265924641
 004978323	https://www.flickr.com/photos/britishlibrary/50266105247
 004978326	https://www.flickr.com/photos/britishlibrary/50265926506
@@ -10167,7 +10112,6 @@ bibsysno	URL
 004978818	https://www.flickr.com/photos/britishlibrary/50265403586
 004978819	https://www.flickr.com/photos/britishlibrary/50265585642
 004978820	https://www.flickr.com/photos/britishlibrary/50265414866
-004978824	https://www.flickr.com/photos/britishlibrary/50265596142
 004978830	https://www.flickr.com/photos/britishlibrary/50265583457
 004978831	https://www.flickr.com/photos/britishlibrary/50264744473
 004978842	https://www.flickr.com/photos/britishlibrary/50265551512
@@ -10295,7 +10239,7 @@ bibsysno	URL
 004979435	https://www.flickr.com/photos/britishlibrary/50264648158
 004979438	https://www.flickr.com/photos/britishlibrary/50265304401
 004979442	https://www.flickr.com/photos/britishlibrary/50265307341
-004979445	https://www.flickr.com/photos/britishlibrary/tags/sysnum004979445?sort=date-posted-desc
+004979445	https://www.flickr.com/photos/britishlibrary/50265485022
 004979446	https://www.flickr.com/photos/britishlibrary/50265484842
 004979456	https://www.flickr.com/photos/britishlibrary/50264675143
 004979457	https://www.flickr.com/photos/britishlibrary/50264646403
@@ -10414,7 +10358,6 @@ bibsysno	URL
 004979796	https://www.flickr.com/photos/britishlibrary/50265324852
 004979797	https://www.flickr.com/photos/britishlibrary/50265141386
 004979799	https://www.flickr.com/photos/britishlibrary/50265160666
-004979801	https://www.flickr.com/photos/britishlibrary/50265160521
 004979803	https://www.flickr.com/photos/britishlibrary/50265167931
 004979804	https://www.flickr.com/photos/britishlibrary/50265309777
 004979806	https://www.flickr.com/photos/britishlibrary/50264557538
@@ -10432,7 +10375,6 @@ bibsysno	URL
 004979820	https://www.flickr.com/photos/britishlibrary/50265337842
 004979821	https://www.flickr.com/photos/britishlibrary/50264495593
 004979822	https://www.flickr.com/photos/britishlibrary/50265149081
-004979823	https://www.flickr.com/photos/britishlibrary/50265151646
 004979824	https://www.flickr.com/photos/britishlibrary/50265151581
 004979826	https://www.flickr.com/photos/britishlibrary/50265227141
 004979827	https://www.flickr.com/photos/britishlibrary/50265373962
@@ -10593,7 +10535,6 @@ bibsysno	URL
 004981147	https://www.flickr.com/photos/britishlibrary/50264171506
 004981177	https://www.flickr.com/photos/britishlibrary/50263513248
 004981179	https://www.flickr.com/photos/britishlibrary/50264351912
-004981180	https://www.flickr.com/photos/britishlibrary/50264160486
 004981181	https://www.flickr.com/photos/britishlibrary/50264171241
 004981182	https://www.flickr.com/photos/britishlibrary/50263513063
 004981196	https://www.flickr.com/photos/britishlibrary/50263511463
@@ -10611,7 +10552,6 @@ bibsysno	URL
 004981338	https://www.flickr.com/photos/britishlibrary/50264177541
 004981341	https://www.flickr.com/photos/britishlibrary/50263519458
 004981342	https://www.flickr.com/photos/britishlibrary/50264177296
-004981343	https://www.flickr.com/photos/britishlibrary/50263502228
 004981348	https://www.flickr.com/photos/britishlibrary/50264347822
 004981362	https://www.flickr.com/photos/britishlibrary/50264357647
 004981363	https://www.flickr.com/photos/britishlibrary/50263519168
@@ -10652,7 +10592,6 @@ bibsysno	URL
 004981850	https://www.flickr.com/photos/britishlibrary/50263485978
 004981855	https://www.flickr.com/photos/britishlibrary/50264297322
 004981856	https://www.flickr.com/photos/britishlibrary/50264317592
-004981859	https://www.flickr.com/photos/britishlibrary/50263463723
 004981864	https://www.flickr.com/photos/britishlibrary/50264302557
 004981865	https://www.flickr.com/photos/britishlibrary/50263462453
 004981866	https://www.flickr.com/photos/britishlibrary/50264120156
@@ -10681,7 +10620,7 @@ bibsysno	URL
 004981948	https://www.flickr.com/photos/britishlibrary/50264096701
 004981949	https://www.flickr.com/photos/britishlibrary/50263438343
 004981950	https://www.flickr.com/photos/britishlibrary/50263439833
-004981953	https://www.flickr.com/photos/britishlibrary/50263435208
+004981953	https://www.flickr.com/photos/britishlibrary/50264093166
 004981956	https://www.flickr.com/photos/britishlibrary/50263439668
 004981957	https://www.flickr.com/photos/britishlibrary/50264097756
 004981958	https://www.flickr.com/photos/britishlibrary/50264276022
@@ -10847,6 +10786,7 @@ bibsysno	URL
 004982236	https://www.flickr.com/photos/britishlibrary/50264191322
 004982237	https://www.flickr.com/photos/britishlibrary/50264181647
 004982238	https://www.flickr.com/photos/britishlibrary/50263994796
+004982240	https://www.flickr.com/photos/britishlibrary/50562482418
 004982241	https://www.flickr.com/photos/britishlibrary/50264194592
 004982242	https://www.flickr.com/photos/britishlibrary/50264194482
 004982244	https://www.flickr.com/photos/britishlibrary/50264187772
@@ -11874,7 +11814,7 @@ bibsysno	URL
 004984813	https://www.flickr.com/photos/britishlibrary/50265793581
 004984815	https://www.flickr.com/photos/britishlibrary/50266057767
 004984816	https://www.flickr.com/photos/britishlibrary/50265140513
-004984818	https://www.flickr.com/photos/britishlibrary/50265138453
+004984818	https://www.flickr.com/photos/britishlibrary/50265795951
 004984819	https://www.flickr.com/photos/britishlibrary/50265976422
 004984820	https://www.flickr.com/photos/britishlibrary/50265138713
 004984821	https://www.flickr.com/photos/britishlibrary/50265975787
@@ -11891,13 +11831,11 @@ bibsysno	URL
 004984868	https://www.flickr.com/photos/britishlibrary/50265962312
 004984869	https://www.flickr.com/photos/britishlibrary/50265124928
 004984884	https://www.flickr.com/photos/britishlibrary/50265800941
-004984885	https://www.flickr.com/photos/britishlibrary/50265143518
 004984886	https://www.flickr.com/photos/britishlibrary/50266057702
 004984889	https://www.flickr.com/photos/britishlibrary/50265787801
 004984892	https://www.flickr.com/photos/britishlibrary/50265787751
 004984893	https://www.flickr.com/photos/britishlibrary/50265967087
 004984894	https://www.flickr.com/photos/britishlibrary/50265966992
-004984898	https://www.flickr.com/photos/britishlibrary/50265073278
 004984899	https://www.flickr.com/photos/britishlibrary/50265784421
 004984901	https://www.flickr.com/photos/britishlibrary/50265963797
 004984902	https://www.flickr.com/photos/britishlibrary/50265126508
@@ -12121,7 +12059,6 @@ bibsysno	URL
 004985379	https://www.flickr.com/photos/britishlibrary/50265924382
 004985391	https://www.flickr.com/photos/britishlibrary/50265009283
 004985411	https://www.flickr.com/photos/britishlibrary/50265650211
-004985463	https://www.flickr.com/photos/britishlibrary/50264996488
 004985600	https://www.flickr.com/photos/britishlibrary/tags/sysnum004985600?sort=date-posted-desc
 004985947	https://www.flickr.com/photos/britishlibrary/50265808072
 004985948	https://www.flickr.com/photos/britishlibrary/50265808557
@@ -12229,7 +12166,7 @@ bibsysno	URL
 004987008	https://www.flickr.com/photos/britishlibrary/50264818368
 004987009	https://www.flickr.com/photos/britishlibrary/50265657407
 004987022	https://www.flickr.com/photos/britishlibrary/50265656167
-004987023	https://www.flickr.com/photos/britishlibrary/tags/sysnum004987023?sort=date-posted-desc
+004987023	https://www.flickr.com/photos/britishlibrary/50264816873
 004987024	https://www.flickr.com/photos/britishlibrary/50265472686
 004987028	https://www.flickr.com/photos/britishlibrary/50264810933
 004987030	https://www.flickr.com/photos/britishlibrary/50265676647
@@ -12426,7 +12363,7 @@ bibsysno	URL
 004987821	https://www.flickr.com/photos/britishlibrary/50265529806
 004987824	https://www.flickr.com/photos/britishlibrary/50264895743
 004987825	https://www.flickr.com/photos/britishlibrary/50264895673
-004987826	https://www.flickr.com/photos/britishlibrary/50264916828
+004987826	https://www.flickr.com/photos/britishlibrary/50563354372
 004987827	https://www.flickr.com/photos/britishlibrary/50265756537
 004987830	https://www.flickr.com/photos/britishlibrary/50264911823
 004987831	https://www.flickr.com/photos/britishlibrary/50265569086
@@ -12444,7 +12381,7 @@ bibsysno	URL
 004987857	https://www.flickr.com/photos/britishlibrary/50264905773
 004987865	https://www.flickr.com/photos/britishlibrary/50265749992
 004987875	https://www.flickr.com/photos/britishlibrary/50265745562
-004987876	https://www.flickr.com/photos/britishlibrary/tags/sysnum004987876?sort=date-posted-desc
+004987876	https://www.flickr.com/photos/britishlibrary/50265745482
 004987877	https://www.flickr.com/photos/britishlibrary/50265730112
 004987878	https://www.flickr.com/photos/britishlibrary/50265554571
 004987879	https://www.flickr.com/photos/britishlibrary/50264904018
@@ -12940,7 +12877,7 @@ bibsysno	URL
 016608102	https://www.flickr.com/photos/britishlibrary/50265753412
 016608107	https://www.flickr.com/photos/britishlibrary/50265570976
 016608113	https://www.flickr.com/photos/britishlibrary/50265570886
-016608172	https://www.flickr.com/photos/britishlibrary/50264916828
+016608172	https://www.flickr.com/photos/britishlibrary/50265574366
 016608198	https://www.flickr.com/photos/britishlibrary/50265755927
 016608212	https://www.flickr.com/photos/britishlibrary/50265573536
 016608219	https://www.flickr.com/photos/britishlibrary/50265755637
@@ -13110,7 +13047,7 @@ bibsysno	URL
 016710535	https://www.flickr.com/photos/britishlibrary/50265616797
 016710644	https://www.flickr.com/photos/britishlibrary/50265616357
 016710650	https://www.flickr.com/photos/britishlibrary/50265433241
-016715743	https://www.flickr.com/photos/britishlibrary/50264930168
+016715743	https://www.flickr.com/photos/britishlibrary/50264929908
 016716901	https://www.flickr.com/photos/britishlibrary/50264986208
 016716929	https://www.flickr.com/photos/britishlibrary/50264986133
 016716934	https://www.flickr.com/photos/britishlibrary/50264986063
@@ -13355,7 +13292,7 @@ bibsysno	URL
 016861667	https://www.flickr.com/photos/britishlibrary/50263374133
 016861698	https://www.flickr.com/photos/britishlibrary/50264031866
 016861780	https://www.flickr.com/photos/britishlibrary/50265309991
-016862024	https://www.flickr.com/photos/britishlibrary/50265488772
+016862024	https://www.flickr.com/photos/britishlibrary/50265488717
 016862025	https://www.flickr.com/photos/britishlibrary/50265488662
 016865225	https://www.flickr.com/photos/britishlibrary/50264644363
 016865229	https://www.flickr.com/photos/britishlibrary/50265300526
@@ -13774,8 +13711,8 @@ bibsysno	URL
 017076452	https://www.flickr.com/photos/britishlibrary/50265956472
 017077086	https://www.flickr.com/photos/britishlibrary/50265642397
 017077160	https://www.flickr.com/photos/britishlibrary/50264778278
-017078655	https://www.flickr.com/photos/britishlibrary/tags/sysnum017078655?sort=date-posted-desc
-017078675	https://www.flickr.com/photos/britishlibrary/50265641387
+017078655	https://www.flickr.com/photos/britishlibrary/50264802498
+017078675	https://www.flickr.com/photos/britishlibrary/50265641322
 017078715	https://www.flickr.com/photos/britishlibrary/tags/sysnum017078715?sort=date-posted-desc
 017079643	https://www.flickr.com/photos/britishlibrary/50264801598
 017079671	https://www.flickr.com/photos/britishlibrary/50265432246
@@ -13892,7 +13829,7 @@ bibsysno	URL
 017134693	https://www.flickr.com/photos/britishlibrary/50265679447
 017134696	https://www.flickr.com/photos/britishlibrary/50264839508
 017135573	https://www.flickr.com/photos/britishlibrary/tags/sysnum017135573?sort=date-posted-desc
-017135581	https://www.flickr.com/photos/britishlibrary/tags/sysnum017135581?sort=date-posted-desc
+017135581	https://www.flickr.com/photos/britishlibrary/50265493061
 017135584	https://www.flickr.com/photos/britishlibrary/tags/sysnum017135584?sort=date-posted-desc
 017135588	https://www.flickr.com/photos/britishlibrary/50262789083
 017135592	https://www.flickr.com/photos/britishlibrary/50265674352
@@ -14384,12 +14321,11 @@ bibsysno	URL
 017691984	https://www.flickr.com/photos/britishlibrary/50263379991
 017699088	https://www.flickr.com/photos/britishlibrary/50263377786
 017699219	https://www.flickr.com/photos/britishlibrary/50263377436
-017699335	https://www.flickr.com/photos/britishlibrary/50264340362
 017699360	https://www.flickr.com/photos/britishlibrary/50263316291
 017700276	https://www.flickr.com/photos/britishlibrary/50264159356
 017702174	https://www.flickr.com/photos/britishlibrary/50263315086
 017702498	https://www.flickr.com/photos/britishlibrary/50263496817
-017702596	https://www.flickr.com/photos/britishlibrary/50252099957
+017702596	https://www.flickr.com/photos/britishlibrary/50251072958
 017702986	https://www.flickr.com/photos/britishlibrary/50263315981
 017702993	https://www.flickr.com/photos/britishlibrary/50263077443
 017703051	https://www.flickr.com/photos/britishlibrary/50262656723
@@ -14642,7 +14578,7 @@ bibsysno	URL
 017782930	https://www.flickr.com/photos/britishlibrary/50265151738
 017782931	https://www.flickr.com/photos/britishlibrary/50266049372
 017783034	https://www.flickr.com/photos/britishlibrary/50265988772
-017783067	https://www.flickr.com/photos/britishlibrary/50265788671
+017783067	https://www.flickr.com/photos/britishlibrary/50563223651
 017783096	https://www.flickr.com/photos/britishlibrary/50265129298
 017783226	https://www.flickr.com/photos/britishlibrary/50265988427
 017783262	https://www.flickr.com/photos/britishlibrary/50265150758
@@ -14721,7 +14657,7 @@ bibsysno	URL
 017814210	https://www.flickr.com/photos/britishlibrary/50266038432
 017814280	https://www.flickr.com/photos/britishlibrary/50265808586
 017819287	https://www.flickr.com/photos/britishlibrary/50266011427
-017837532	https://www.flickr.com/photos/britishlibrary/50266018882
+017837532	https://www.flickr.com/photos/britishlibrary/50265839866
 017841634	https://www.flickr.com/photos/britishlibrary/50265777647
 017841639	https://www.flickr.com/photos/britishlibrary/50264937853
 017841646	https://www.flickr.com/photos/britishlibrary/50265777512
@@ -14787,7 +14723,7 @@ bibsysno	URL
 017853066	https://www.flickr.com/photos/britishlibrary/50265304817
 017853068	https://www.flickr.com/photos/britishlibrary/50265012356
 017853204	https://www.flickr.com/photos/britishlibrary/50265427777
-017853220	https://www.flickr.com/photos/britishlibrary/50265113811
+017853220	https://www.flickr.com/photos/britishlibrary/50264459438
 017858398	https://www.flickr.com/photos/britishlibrary/50264589873
 017858439	https://www.flickr.com/photos/britishlibrary/50264589803
 017858483	https://www.flickr.com/photos/britishlibrary/50265426652
@@ -14867,7 +14803,7 @@ bibsysno	URL
 017882913	https://www.flickr.com/photos/britishlibrary/50263556406
 017885887	https://www.flickr.com/photos/britishlibrary/50265920837
 017885929	https://www.flickr.com/photos/britishlibrary/50263556266
-017886136	https://www.flickr.com/photos/britishlibrary/50264538878
+017886136	https://www.flickr.com/photos/britishlibrary/50264538818
 017890339	https://www.flickr.com/photos/britishlibrary/50263554401
 017890352	https://www.flickr.com/photos/britishlibrary/50263554331
 017890370	https://www.flickr.com/photos/britishlibrary/50263739407
@@ -14940,7 +14876,7 @@ bibsysno	URL
 017923655	https://www.flickr.com/photos/britishlibrary/50264676543
 017923658	https://www.flickr.com/photos/britishlibrary/50265332966
 017924514	https://www.flickr.com/photos/britishlibrary/50265323501
-017924561	https://www.flickr.com/photos/britishlibrary/50264665713
+017924561	https://www.flickr.com/photos/britishlibrary/50264665608
 017926872	https://www.flickr.com/photos/britishlibrary/50264119457
 017928113	https://www.flickr.com/photos/britishlibrary/50263278273
 017928233	https://www.flickr.com/photos/britishlibrary/50263934376
@@ -14986,10 +14922,9 @@ bibsysno	URL
 017940123	https://www.flickr.com/photos/britishlibrary/50264244693
 017940147	https://www.flickr.com/photos/britishlibrary/50264897546
 017952805	https://www.flickr.com/photos/britishlibrary/50263557588
-017952922	https://www.flickr.com/photos/britishlibrary/50263540858
 017966750	https://www.flickr.com/photos/britishlibrary/50264202146
 017966787	https://www.flickr.com/photos/britishlibrary/50264430448
-017966789	https://www.flickr.com/photos/britishlibrary/50264430493
+017966789	https://www.flickr.com/photos/britishlibrary/50265267337
 017971198	https://www.flickr.com/photos/britishlibrary/50264426023
 017971471	https://www.flickr.com/photos/britishlibrary/50264421098
 017976198	https://www.flickr.com/photos/britishlibrary/50265138857
@@ -15079,7 +15014,6 @@ bibsysno	URL
 018106061	https://www.flickr.com/photos/britishlibrary/50263505798
 018106067	https://www.flickr.com/photos/britishlibrary/50264163511
 018107786	https://www.flickr.com/photos/britishlibrary/50264971781
-018111870	https://www.flickr.com/photos/britishlibrary/50264344052
 018113771	https://www.flickr.com/photos/britishlibrary/50264341327
 018188242	https://www.flickr.com/photos/britishlibrary/50263473148
 018189866	https://www.flickr.com/photos/britishlibrary/50264128996
@@ -15125,9 +15059,9 @@ bibsysno	URL
 018218338	https://www.flickr.com/photos/britishlibrary/50265062901
 018219862	https://www.flickr.com/photos/britishlibrary/50265061501
 018219998	https://www.flickr.com/photos/britishlibrary/50265059246
-018220036	https://www.flickr.com/photos/britishlibrary/50265242587
-018220038	https://www.flickr.com/photos/britishlibrary/50264406023
-018220047	https://www.flickr.com/photos/britishlibrary/50265242457
+018220036	https://www.flickr.com/photos/britishlibrary/50265059201
+018220038	https://www.flickr.com/photos/britishlibrary/50264405743
+018220047	https://www.flickr.com/photos/britishlibrary/50264405673
 018224522	https://www.flickr.com/photos/britishlibrary/50265237907
 018231936	https://www.flickr.com/photos/britishlibrary/50263920121
 018232092	https://www.flickr.com/photos/britishlibrary/50264103637
@@ -15274,7 +15208,7 @@ bibsysno	URL
 018338706	https://www.flickr.com/photos/britishlibrary/50263859701
 018338734	https://www.flickr.com/photos/britishlibrary/50263859606
 018338786	https://www.flickr.com/photos/britishlibrary/50264043182
-018338830	https://www.flickr.com/photos/britishlibrary/50264043117
+018338830	https://www.flickr.com/photos/britishlibrary/50263202048
 018339998	https://www.flickr.com/photos/britishlibrary/50264042907
 018340021	https://www.flickr.com/photos/britishlibrary/50263201888
 018340785	https://www.flickr.com/photos/britishlibrary/50263855716
@@ -15448,7 +15382,6 @@ bibsysno	URL
 018421504	https://www.flickr.com/photos/britishlibrary/50263814186
 018436433	https://www.flickr.com/photos/britishlibrary/50263156568
 018436451	https://www.flickr.com/photos/britishlibrary/50263403363
-018436489	https://www.flickr.com/photos/britishlibrary/50264253922
 018436508	https://www.flickr.com/photos/britishlibrary/50263408978
 018436643	https://www.flickr.com/photos/britishlibrary/50264248962
 018436652	https://www.flickr.com/photos/britishlibrary/50264065616
@@ -15665,7 +15598,7 @@ bibsysno	URL
 018623086	https://www.flickr.com/photos/britishlibrary/50262990103
 018623347	https://www.flickr.com/photos/britishlibrary/50265044896
 018623351	https://www.flickr.com/photos/britishlibrary/50265227352
-018623356	https://www.flickr.com/photos/britishlibrary/50265041516
+018623356	https://www.flickr.com/photos/britishlibrary/tags/sysnum018623356?sort=date-posted-desc
 018623393	https://www.flickr.com/photos/britishlibrary/50263294428
 018623491	https://www.flickr.com/photos/britishlibrary/50263950756
 018625492	https://www.flickr.com/photos/britishlibrary/50262990643
@@ -15692,16 +15625,14 @@ bibsysno	URL
 018644235	https://www.flickr.com/photos/britishlibrary/50264762268
 018644454	https://www.flickr.com/photos/britishlibrary/50263831897
 018647042	https://www.flickr.com/photos/britishlibrary/50263830492
-018647043	https://www.flickr.com/photos/britishlibrary/50262991918
 018647305	https://www.flickr.com/photos/britishlibrary/50262964783
 018648562	https://www.flickr.com/photos/britishlibrary/50263621391
 018648632	https://www.flickr.com/photos/britishlibrary/50263804822
-018648633	https://www.flickr.com/photos/britishlibrary/50262961718
 018648645	https://www.flickr.com/photos/britishlibrary/50262961118
 018649041	https://www.flickr.com/photos/britishlibrary/50265118263
 018649170	https://www.flickr.com/photos/britishlibrary/50263615266
 018649171	https://www.flickr.com/photos/britishlibrary/50263615166
-018664055	https://www.flickr.com/photos/britishlibrary/50262961718
+018664055	https://www.flickr.com/photos/britishlibrary/50262961618
 018664069	https://www.flickr.com/photos/britishlibrary/50263619636
 018664535	https://www.flickr.com/photos/britishlibrary/50263613736
 018670206	https://www.flickr.com/photos/britishlibrary/50263829057
@@ -15849,7 +15780,6 @@ bibsysno	URL
 018728495	https://www.flickr.com/photos/britishlibrary/50262969713
 018728510	https://www.flickr.com/photos/britishlibrary/50263813142
 018728511	https://www.flickr.com/photos/britishlibrary/50263813277
-018729646	https://www.flickr.com/photos/britishlibrary/50263792436
 018729904	https://www.flickr.com/photos/britishlibrary/50263791211
 018729925	https://www.flickr.com/photos/britishlibrary/50263974937
 018729936	https://www.flickr.com/photos/britishlibrary/50263974837
@@ -16273,7 +16203,7 @@ bibsysno	URL
 019013553	https://www.flickr.com/photos/britishlibrary/50265430042
 019013602	https://www.flickr.com/photos/britishlibrary/50265450157
 019013618	https://www.flickr.com/photos/britishlibrary/50265268611
-019014694	https://www.flickr.com/photos/britishlibrary/50264612283
+019014694	https://www.flickr.com/photos/britishlibrary/50562482653
 019014697	https://www.flickr.com/photos/britishlibrary/50264612078
 019014701	https://www.flickr.com/photos/britishlibrary/50265448962
 019014709	https://www.flickr.com/photos/britishlibrary/50265448882
@@ -16336,7 +16266,7 @@ bibsysno	URL
 019054108	https://www.flickr.com/photos/britishlibrary/50263476201
 019063549	https://www.flickr.com/photos/britishlibrary/50262695718
 019079724	https://www.flickr.com/photos/britishlibrary/50263695447
-019081690	https://www.flickr.com/photos/britishlibrary/50264097106
+019081690	https://www.flickr.com/photos/britishlibrary/50264278977
 019081759	https://www.flickr.com/photos/britishlibrary/50263464458
 019081760	https://www.flickr.com/photos/britishlibrary/50264123121
 019081761	https://www.flickr.com/photos/britishlibrary/50263327113
@@ -16363,7 +16293,6 @@ bibsysno	URL
 019402033	https://www.flickr.com/photos/britishlibrary/tags/sysnum019402033?sort=date-posted-desc
 019403562	https://www.flickr.com/photos/britishlibrary/50262802728
 019403796	https://www.flickr.com/photos/britishlibrary/50263646322
-019403838	https://www.flickr.com/photos/britishlibrary/50264883993
 019407047	https://www.flickr.com/photos/britishlibrary/50264592723
 019407265	https://www.flickr.com/photos/britishlibrary/50263467431
 019409197	https://www.flickr.com/photos/britishlibrary/50263462291
@@ -16488,7 +16417,7 @@ bibsysno	URL
 019499015	https://www.flickr.com/photos/britishlibrary/50264124902
 019499742	https://www.flickr.com/photos/britishlibrary/50263924356
 019499766	https://www.flickr.com/photos/britishlibrary/50264110487
-019503008	https://www.flickr.com/photos/britishlibrary/50262991918
+019503008	https://www.flickr.com/photos/britishlibrary/50262991833
 019503228	https://www.flickr.com/photos/britishlibrary/50262988018
 019505555	https://www.flickr.com/photos/britishlibrary/50263824337
 019505661	https://www.flickr.com/photos/britishlibrary/50262965423
